@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\Lab5.Net\ConsolePart\ConsolePart\bin\Debug\ConsolePart.exe.config
+C:\Users\User\Source\Repos\Lab5.Net\ConsolePart\ConsolePart\bin\Debug\ConsolePart.exe
+C:\Users\User\Source\Repos\Lab5.Net\ConsolePart\ConsolePart\bin\Debug\ConsolePart.pdb
+C:\Users\User\Source\Repos\Lab5.Net\ConsolePart\ConsolePart\obj\Debug\ConsolePart.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Lab5.Net\ConsolePart\ConsolePart\obj\Debug\ConsolePart.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Lab5.Net\ConsolePart\ConsolePart\obj\Debug\ConsolePart.exe
+C:\Users\User\Source\Repos\Lab5.Net\ConsolePart\ConsolePart\obj\Debug\ConsolePart.pdb
